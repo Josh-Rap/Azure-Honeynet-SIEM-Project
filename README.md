@@ -73,5 +73,5 @@ The following table summarizes the % change in each log count after implementing
 | AzureNetworkAnalytics_CL | -100.00%
 
 ## Additional Writeups Within This Lab
-- [Simulating and Working a Linux Brute Force Incident in Azure SIEM (NIST 800-61)]()
-- [Deploying and Configuring an Azure Firewall to Protect a Virtual Network]()
+- [Simulating and Working a Linux Brute Force Incident in Azure SIEM (NIST 800-61)](https://github.com/Josh-Rap/Simulating-and-Working-a-Linux-Brute-Force-Incident-in-Azure-SIEM-NIST-800-61-)
+- [Deploying and Configuring an Azure Firewall to Protect a Virtual Network](https://github.com/Josh-Rap/Deploying-and-Configuring-an-Azure-Firewall-to-Protect-a-Virtual-Network)
